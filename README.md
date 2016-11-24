@@ -1,8 +1,6 @@
-AngularJS Tutorial 1
+AngularJS Site Template
 ====================
 
-author: [Nick Kaye](http://www.nickkaye.com)
+author: [Thiago Gomes]
 
-**NOTE:  Weâ€™re referencing all of our vendor dependencies (e.g. Bootstrap, jQuery, Angular) at outside URLs.   Therefore, it is necessary to host our site while weâ€™re working on it.  Be sure we are viewing it in a browser with http:// -- not file://**
-
-View the [live demo](http://airpair.github.io/demos/2014/09/T0021-airpair-angularjs-tutorial).
+**Template para a iniciação de sites com angulasJS. Utilização simples de rotas, includes e telas parciais.**
